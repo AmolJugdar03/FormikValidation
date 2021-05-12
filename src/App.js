@@ -1,10 +1,10 @@
 import './App.css';
-import WarratyForm from './'
+import WarrantyForm from './components/WarantyForm'
 
 function App() {
   return (
     <div className="App">
-      <h1>WARRANTY REGISTRATION</h1>
+      <WarrantyForm/>
        </div>
   );
 }
