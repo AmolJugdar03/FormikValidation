@@ -1,0 +1,10 @@
+{
+    "data": [
+      { "id": 1, "Name": "Amol", "Mobileno": "43434",
+    "Model":"32","Pincode":21221,"State":"Maharashtra",
+    "Date":"23-3-2021","BatteryNo":21,"ChasisNo":32,
+    "ModelColor":"red"
+
+    }
+    ]
+     }

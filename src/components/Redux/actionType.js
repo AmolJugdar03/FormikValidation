@@ -1,0 +1,2 @@
+export const ADD_DATA_SUCCESS= "ADD_DATA_SUCCESS";
+export const ADD_DATA_ERROR= "ADD_DATA_ERROR";
