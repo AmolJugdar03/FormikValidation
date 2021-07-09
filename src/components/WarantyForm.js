@@ -90,7 +90,7 @@ function WarrantyForm(props) {
       <br />
       <br />
       <div>
-        <h3>WARRANTY REGESTRATION FORM</h3>
+        <h3>WARRANTY REGESTRATION FORM For Biker's</h3>
       </div>
       <form
         className="row g-3 needs-validation"
